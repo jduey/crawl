@@ -1,0 +1,15 @@
+# crawl
+
+Crawl: a Java bytecode compiler written in Clojure
+
+A port of the OpenJDK Graal project.
+
+## Usage
+
+This code is for reading only ATM. It depends on a hacked version clojure.algo.monads I did. Konrad Hinson is looking at modifying algo.monads to make this hack unnecessary.
+
+## License
+
+Copyright (C) 2012 Jim Duey
+
+Distributed under the Eclipse Public License, the same as Clojure.
